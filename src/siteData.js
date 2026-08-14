@@ -3,7 +3,7 @@
 
 export const profile = {
   name: "Dominique Savio M",
-  role: "Owner, beoneofus",
+  role: "Founder & CEO, beoneofus",
   available: true,
   email: "dominiquesavio@beoneofus.work",
   phone: ["+230 54753221", "+250 786731976"],
@@ -39,8 +39,8 @@ export const ecosystemLinks = [
 
 export const stack = [
   { key: "focus", value: "Global opportunity ecosystem" },
-  { key: "platform", value: "AI-native jobs, mentorship, networking, and skills" },
-  { key: "impact", value: "Verified connections for individuals and institutions" },
+  { key: "platform", value: "AI-native jobs, mentorship, networking, and skills infrastructure" },
+  { key: "impact", value: "Verified connections for people, companies, and institutions" },
   { key: "reach", value: "Across Africa and the global professional network" },
 ]
 

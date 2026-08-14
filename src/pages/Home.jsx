@@ -9,20 +9,20 @@ export default function Home() {
     <>
       <div className="hero-layout">
         <div className="hero-copy">
-          <p className="eyebrow">Published by the founder · beoneofus</p>
+          <p className="eyebrow">Founder · beoneofus</p>
           <h1 className="display">
-            I build technology that creates <em>better futures</em>.
+            I build the systems behind <em>better opportunity</em>.
           </h1>
           <p className="lede">
-            I am Dominique Savio M, the founder of beoneofus, and I build technology systems that help
-            people discover opportunity, connect with trusted communities, and grow through meaningful work.
-            From Rwanda to Mauritius and beyond, my journey has been shaped by practical experience,
-            self-learning, and a deep belief that better digital ecosystems can unlock real progress.
+            I am Dominique Savio M, founder and CEO of beoneofus. I design and build digital platforms that
+            connect people, institutions, and opportunities in a more trusted, more visible, and more human way.
+            My work sits at the intersection of product thinking, business building, and technology — creating
+            infrastructure that helps talent, communities, and organizations move faster and smarter.
           </p>
 
           <div className="mini-mission">
-            <span className="mini-label">Founder note</span>
-            <p>beoneofus was created to make opportunity more visible, more trusted, and more accessible for the next generation of builders and professionals.</p>
+            <span className="mini-label">Vision</span>
+            <p>Build the future infrastructure for opportunity, trust, and growth across emerging markets and global networks.</p>
           </div>
 
           <div className="geo-tag">

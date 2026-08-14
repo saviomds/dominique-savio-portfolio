@@ -4,10 +4,11 @@ export default function Contact() {
   return (
     <>
       <p className="eyebrow">Founder contact · beoneofus</p>
-      <h1 className="display">Let’s connect.</h1>
+      <h1 className="display">Let’s build the next chapter.</h1>
       <p className="lede">
         I’m Dominique Savio M, founder and CEO of beoneofus. I’m open to meaningful conversations around
-        partnerships, ecosystem growth, community building, and the future of opportunity-driven digital products.
+        strategic partnerships, ecosystem growth, institutional collaboration, and building products that shape
+        opportunity in a more connected and empowered world.
       </p>
 
       <div className="contact-card">
