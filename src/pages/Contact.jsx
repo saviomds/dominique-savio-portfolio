@@ -3,11 +3,11 @@ import { profile } from "../siteData"
 export default function Contact() {
   return (
     <>
-      <p className="eyebrow">Get in touch</p>
+      <p className="eyebrow">Founder contact · beoneofus</p>
       <h1 className="display">Let’s connect.</h1>
       <p className="lede">
-        I’m the founder and CEO of beoneofus, and I’m open to meaningful conversations around
-        partnerships, growth, and building trusted professional communities.
+        I’m Dominique Savio M, founder and CEO of beoneofus. I’m open to meaningful conversations around
+        partnerships, ecosystem growth, community building, and the future of opportunity-driven digital products.
       </p>
 
       <div className="contact-card">

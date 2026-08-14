@@ -3,11 +3,12 @@ import { projects } from "../siteData"
 export default function Projects() {
   return (
     <>
-      <p className="eyebrow">Selected work</p>
+      <p className="eyebrow">Founder-selected work · beoneofus</p>
       <h1 className="display">Projects</h1>
       <p className="lede">
-        Real ecosystem brands and digital platforms built to connect people, opportunities,
-        and growth through trust, clarity, and modern design.
+        These are the ecosystem brands and digital platforms I have helped shape as founder and builder,
+        each designed to connect people, opportunities, and growth through trust, clarity, and modern
+        design. Every project reflects the same mission behind beoneofus: build better systems for real lives.
       </p>
 
       <div className="project-list project-showcase">

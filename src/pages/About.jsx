@@ -9,15 +9,16 @@ export default function About() {
         </div>
 
         <div className="about-intro">
-          <p className="eyebrow">About</p>
+          <p className="eyebrow">About the founder · beoneofus</p>
           <h1 className="display">
             A self-taught developer building a <span className="accent-italic">better world</span> through technology.
           </h1>
           <p className="lede">
-            I am a Rwandan software engineer who learned by doing, building, and solving real problems
-            while growing through experience in Mauritius. I work across digital products, professional
-            ecosystems, and community-driven technology to help people access opportunity, grow skills,
-            and create meaningful impact.
+            I am Dominique Savio M, founder and CEO of beoneofus. I am a Rwandan software engineer who
+            learned by doing, building, and solving real problems while growing through experience in
+            Mauritius. My work sits at the intersection of product building, professional ecosystems,
+            and community trust — helping people access opportunity, grow their skills, and create impact
+            through practical digital solutions.
           </p>
 
           <div className="ecosystem-links compact">

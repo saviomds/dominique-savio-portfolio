@@ -9,19 +9,20 @@ export default function Home() {
     <>
       <div className="hero-layout">
         <div className="hero-copy">
-          <p className="eyebrow">Owner, beoneofus</p>
+          <p className="eyebrow">Published by the founder · beoneofus</p>
           <h1 className="display">
             I build technology that creates <em>better futures</em>.
           </h1>
           <p className="lede">
-            I am a 23-year-old self-taught software engineer from Rwanda, with professional experience
-            shaped by time and work in Mauritius. I build products and ecosystems that connect people,
-            opportunities, and communities through practical, trusted technology.
+            I am Dominique Savio M, the founder of beoneofus, and I build technology systems that help
+            people discover opportunity, connect with trusted communities, and grow through meaningful work.
+            From Rwanda to Mauritius and beyond, my journey has been shaped by practical experience,
+            self-learning, and a deep belief that better digital ecosystems can unlock real progress.
           </p>
 
           <div className="mini-mission">
-            <span className="mini-label">Mission</span>
-            <p>Build better systems, unlock opportunity, and use technology to improve lives across Africa and beyond.</p>
+            <span className="mini-label">Founder note</span>
+            <p>beoneofus was created to make opportunity more visible, more trusted, and more accessible for the next generation of builders and professionals.</p>
           </div>
 
           <div className="geo-tag">
