@@ -14,7 +14,7 @@ export default function Home() {
             I build technology that creates <em>better futures</em>.
           </h1>
           <p className="lede">
-            I am a young self-taught software engineer from Rwanda, with professional experience
+            I am a 23-year-old self-taught software engineer from Rwanda, with professional experience
             shaped by time and work in Mauritius. I build products and ecosystems that connect people,
             opportunities, and communities through practical, trusted technology.
           </p>
