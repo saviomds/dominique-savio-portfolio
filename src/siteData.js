@@ -31,10 +31,10 @@ export function getAge(dateString) {
 
 export const ecosystemLinks = [
   { label: "beoneofus", href: "https://b1overs.com", primary: true },
-  { label: "Explore Projects", href: "https://beoneofus.work/Explore_Projects" },
-  { label: "For Institutions", href: "https://beoneofus.work/for-institutions" },
-  { label: "Get Started", href: "https://beoneofus.work/auth?next=%2Fdash" },
-  { label: "Docs", href: "https://beoneofus.work/docs" },
+  { label: "Explore Projects", href: "https://b1overs.com/Explore_Projects" },
+  { label: "For Institutions", href: "https://b1overs.com/for-institutions" },
+  { label: "Get Started", href: "https://b1overs.com/auth?next=%2Fdash" },
+  { label: "Docs", href: "https://b1overs.com/docs" },
 ]
 
 export const stack = [
