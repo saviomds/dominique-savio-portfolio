@@ -7,14 +7,5 @@ compatibility_date = "2024-04-03"
 command = "npm run build"
 cwd = "./"
 
-[[env.production]]
-name = "dominique-savio-portfolio"
-routes = [
-  { pattern = "portfolio.beoneofus.work", zone_name = "beoneofus.work" }
-]
+[[triggers.crons]]
 
-[triggers]
-crons = []
-
-[env.production.routes]
-zone_name = "beoneofus.work"
