@@ -11,7 +11,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/saviomds/",
   location: "Rwanda",
   birthDate: "2003-01-09",
-  heroImage: "/a41232ce-4a12-459c-90b1-9109ea18d771.jpg",
+  heroImage: "/hero-dominique.jpg",
 }
 
 export function getAge(dateString) {
@@ -30,7 +30,7 @@ export function getAge(dateString) {
 }
 
 export const ecosystemLinks = [
-  { label: "beoneofus", href: "https://beoneofus.work", primary: true },
+  { label: "beoneofus", href: "https://b1overs.com", primary: true },
   { label: "Explore Projects", href: "https://beoneofus.work/Explore_Projects" },
   { label: "For Institutions", href: "https://beoneofus.work/for-institutions" },
   { label: "Get Started", href: "https://beoneofus.work/auth?next=%2Fdash" },
@@ -52,8 +52,8 @@ export const projects = [
     description:
       "AI-native global opportunity ecosystem connecting individuals, institutions, and professionals through verified opportunities, communities, and growth pathways.",
     tags: ["AI", "Career", "Community"],
-    link: "https://beoneofus.work",
-    logo: "https://beoneofus.work/favicon.ico",
+    link: "https://b1overs.com",
+    logo: "/favicon.ico",
   },
   {
     slug: "techninja",
